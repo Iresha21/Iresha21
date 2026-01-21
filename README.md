@@ -1,13 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Iresha
 
-<!--
-**Iresha21/Iresha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering undergraduate and Full-Stack Developer trainee with hands-on experience in web and application development through academic projects.
 
-Here are some ideas to get you started:
+I have worked on database-driven web applications and system development using PHP, Java, C++, JavaScript, and MySQL. I also have experience in business analytics using R through data-driven projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+### 🔧 Technologies & Tools
+- HTML, CSS, JavaScript
+- PHP, Java, C++, C#
+- SQL, MySQL
+- R (Business Analytics)
+
+### 🎯 Currently Seeking
+- Software Engineering Internship
+- Full-Stack Developer Internship
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
